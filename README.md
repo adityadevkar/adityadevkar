@@ -1,7 +1,6 @@
 🌸 Hey there, I'm so glad you're here!
 ---
-Welcome to my little corner of GitHub!
-
+Welcome to my little corner of GitHub!<br>
 "I'm all about preparing for the future, getting my hands on new tech, and trying to make student life less of a grind (and more of an adventure). Here's a look at what I'm up to:"
 
 * 🚀 ✨ Active Development & Collaborative Efforts
